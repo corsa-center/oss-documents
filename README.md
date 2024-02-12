@@ -3,17 +3,18 @@ This repository is intended to collect guidance, documents, examples, templates 
 
 ## General guidance
 
-* https://opensource.guide
-* https://www.bestpractices.dev/en
-* https://www.codeforsociety.org/incubator/resources/dii-resource
-* https://mozilla.github.io/open-leadership-training-series/
+* [Open Source Guides, from GitHub](https://opensource.guide)
+* [OpenSSF Best Practices Badge Program](https://www.bestpractices.dev/en)
+* [Code for Science and Society's Digital Infrastructure Incubator resources](https://www.codeforsociety.org/incubator/resources/dii-resource)
+* [Mozilla's Open Leadership Training Series's Best Practices in Working Open](https://mozilla.github.io/open-leadership-training-series/)
 
 
 ## Governance
 
 * https://github.com/github/MVG
 * https://github.com/GoverningOpen/governingopen.github.io
-* https://governingopen.com & https://communityrule.info/
+* https://governingopen.com
+* https://communityrule.info/
 * https://www.cscce.org/2021/11/19/novembers-community-call-recap-exploring-community-governance-models/
 * Examples
   * napari: https://napari.org/stable/community/governance.html
