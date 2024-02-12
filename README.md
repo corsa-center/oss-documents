@@ -14,10 +14,9 @@ This repository is intended to collect guidance, documents, examples, templates 
 ### Governance
 
 * [Minimum Viable Governance](https://github.com/github/MVG)
-* https://github.com/GoverningOpen/governingopen.github.io
-* https://governingopen.com
-* https://communityrule.info/
-* https://www.cscce.org/2021/11/19/novembers-community-call-recap-exploring-community-governance-models/
+* [Goverining Open](https://governingopen.com)
+* [CommunityRule](https://communityrule.info/)
+* [CSCCE's November 2021 community call recap: Exploring community governance models](https://www.cscce.org/2021/11/19/novembers-community-call-recap-exploring-community-governance-models/)
 * Examples
   * napari: https://napari.org/stable/community/governance.html
   * NumPy: https://numpy.org/doc/stable/dev/governance/governance.html
