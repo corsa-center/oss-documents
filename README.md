@@ -1,5 +1,5 @@
 # Open-source software project documents
-This repository is intended to collect guidance, documents, examples, templates for open-source software projects, such as on governance, roadmaps, contributing, code of conduct, etc.
+This repository is intended to collect guidance, documents, examples, templates for open-source software projects, such as on governance, roadmaps, contributing, code of conduct, etc. It was started as part of the DOE-funded [CORSA](https://corsa.center) project.
 
 ## Documents and links
 
