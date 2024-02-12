@@ -17,12 +17,15 @@ This repository is intended to collect guidance, documents, examples, templates 
 * [Minimum Viable Governance](https://github.com/github/MVG)
 * [Goverining Open](https://governingopen.com)
 * [CommunityRule](https://communityrule.info/)
+* [CNCF Community Governance Guide](https://contribute.cncf.io/maintainers/governance/)
+* [OpenGovernance.dev](https://github.com/opengovernance/opengovernance.dev)
 * [CSCCE's November 2021 community call recap: Exploring community governance models](https://www.cscce.org/2021/11/19/novembers-community-call-recap-exploring-community-governance-models/)
 * Examples
   * napari: https://napari.org/stable/community/governance.html
   * NumPy: https://numpy.org/doc/stable/dev/governance/governance.html
   * SciML: https://sciml.ai/governance/
   * Astropy: [Roles](https://www.astropy.org/team.html) & [Governance](https://github.com/astropy/astropy-APEs/blob/main/APE0.rst#the-coordination-committee)
+  * Kubernetes: https://github.com/kubernetes/community/blob/master/governance.md
 
 ### Codes of Conduct 
 
