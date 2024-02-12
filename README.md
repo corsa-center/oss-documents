@@ -11,7 +11,7 @@ This repository is intended to collect guidance, documents, examples, templates 
 
 ## Governance
 
-* https://github.com/github/MVG
+* [Minimum Viable Governance](https://github.com/github/MVG)
 * https://github.com/GoverningOpen/governingopen.github.io
 * https://governingopen.com
 * https://communityrule.info/
