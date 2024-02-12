@@ -40,7 +40,7 @@ This repository is intended to collect guidance, documents, examples, templates 
  
  ### Licenses
 
-* [Choose a license](https://choosealicense.com)
+* [GitHub's Choose an open source license](https://choosealicense.com)
 * [Open Seed's A Primer on Open Licenses, by Yo Yehudi](https://docs.google.com/presentation/d/e/2PACX-1vQsH4kNQ838uk6mHw8w6YuR8hgg4JXZ10lkNdaVC05zfMEZpU1xDRyT_B6A3s9rqirP2RhAndi-G6dd/pub) 
 
 ## Contributing documents
