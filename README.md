@@ -25,11 +25,12 @@ This repository is intended to collect guidance, documents, examples, templates 
 
 ### Codes of Conduct 
 
-* https://docs.google.com/presentation/d/1E0HBEzzuO3VjNLwM3ThWLJ27R6h359j0DO4jwfcFkCw/edit#slide=id.g21280744133_2_
-* https://opensource.guide/code-of-conduct/
-* https://ropensci.org/blog/2016/12/21/commcallv12-review-coc/
+* [Open Seed's Designing and enforcing a Code of Conduct](https://docs.google.com/presentation/d/1E0HBEzzuO3VjNLwM3ThWLJ27R6h359j0DO4jwfcFkCw/edit)
+* [Open Source Guide's Your Code of Conduct](https://opensource.guide/code-of-conduct/)
+* [rOpenSci's 2016 Highlights and Resources from Community Call v12: How do I create a code of conduct for my event/lab/codebase?](https://ropensci.org/blog/2016/12/21/commcallv12-review-coc/)
 * Examples
-  * https://numfocus.org/code-of-conduct
+  * Contributor Convenant: https://www.contributor-covenant.org
+  * NumFOCUS: https://numfocus.org/code-of-conduct
 
 ### Roadmaps
 
