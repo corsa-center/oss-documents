@@ -25,7 +25,7 @@ This repository is intended to collect guidance, documents, examples, templates 
 
 ### Codes of Conduct 
 
-* [Open Seed's Designing and enforcing a Code of Conduct](https://docs.google.com/presentation/d/1E0HBEzzuO3VjNLwM3ThWLJ27R6h359j0DO4jwfcFkCw/edit)
+* [Open Seed's Designing and enforcing a Code of Conduct by Saskia Freytag](https://docs.google.com/presentation/d/1E0HBEzzuO3VjNLwM3ThWLJ27R6h359j0DO4jwfcFkCw/edit)
 * [Open Source Guide's Your Code of Conduct](https://opensource.guide/code-of-conduct/)
 * [rOpenSci's 2016 Highlights and Resources from Community Call v12: How do I create a code of conduct for my event/lab/codebase?](https://ropensci.org/blog/2016/12/21/commcallv12-review-coc/)
 * Examples
@@ -37,7 +37,11 @@ This repository is intended to collect guidance, documents, examples, templates 
 * [The Turing Way guidance on roadmapping](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-roadmapping.html)
 * Examples
   * SymPy: https://www.sympy.org/en/roadmap.html
+ 
+ ### Licenses
 
+* [Choose a license](https://choosealicense.com)
+* [Open Seed's A Primer on Open Licenses, by Yo Yehudi](https://docs.google.com/presentation/d/e/2PACX-1vQsH4kNQ838uk6mHw8w6YuR8hgg4JXZ10lkNdaVC05zfMEZpU1xDRyT_B6A3s9rqirP2RhAndi-G6dd/pub) 
 
 ## Contributing documents
 
