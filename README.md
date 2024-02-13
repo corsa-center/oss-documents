@@ -19,6 +19,7 @@ This repository is intended to collect guidance, documents, examples, templates 
 * [CommunityRule](https://communityrule.info/)
 * [CNCF Community Governance Guide](https://contribute.cncf.io/maintainers/governance/)
 * [OpenGovernance.dev](https://github.com/opengovernance/opengovernance.dev)
+* [FOSS Governance](https://fossgovernance.org/) and underlying [Zotero governance library](https://www.zotero.org/groups/2310183/foss_governance/library)
 * [CSCCE's November 2021 community call recap: Exploring community governance models](https://www.cscce.org/2021/11/19/novembers-community-call-recap-exploring-community-governance-models/)
 * Examples
   * napari: https://napari.org/stable/community/governance.html
@@ -32,6 +33,7 @@ This repository is intended to collect guidance, documents, examples, templates 
 * [Open Seed's Designing and enforcing a Code of Conduct by Saskia Freytag](https://docs.google.com/presentation/d/1E0HBEzzuO3VjNLwM3ThWLJ27R6h359j0DO4jwfcFkCw/edit)
 * [Open Source Guide's Your Code of Conduct](https://opensource.guide/code-of-conduct/)
 * [rOpenSci's 2016 Highlights and Resources from Community Call v12: How do I create a code of conduct for my event/lab/codebase?](https://ropensci.org/blog/2016/12/21/commcallv12-review-coc/)
+* [Open Source Project Codes of Conduct](https://opensourceconduct.com/)
 * Examples
   * Contributor Convenant: https://www.contributor-covenant.org
   * NumFOCUS: https://numfocus.org/code-of-conduct
