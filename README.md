@@ -6,11 +6,12 @@ This repository is intended to collect guidance, documents, examples, templates 
 ### General guidance
 
 * [Open Source Guides, from GitHub](https://opensource.guide)
+* [Participating in Open Source Communities](https://www.linuxfoundation.org/resources/open-source-guides/participating-in-open-source-communities)
 * [OpenSSF Best Practices Badge Program](https://www.bestpractices.dev/en)
 * [Code for Science and Society's Digital Infrastructure Incubator resources](https://www.codeforsociety.org/incubator/resources/dii-resource)
 * [Mozilla's Open Leadership Training Series's Best Practices in Working Open](https://mozilla.github.io/open-leadership-training-series/)
 * [It Takes a Village: OS Sustainability for Cultural and Scientific Heritage](https://itav.lyrasis.org)
-
+* [Program Management for Open Source Projects](https://pragprog.com/titles/bcosp/program-management-for-open-source-projects/)
 
 ### Governance
 
@@ -21,6 +22,7 @@ This repository is intended to collect guidance, documents, examples, templates 
 * [OpenGovernance.dev](https://github.com/opengovernance/opengovernance.dev)
 * [FOSS Governance](https://fossgovernance.org/) and underlying [Zotero governance library](https://www.zotero.org/groups/2310183/foss_governance/library)
 * [CSCCE's November 2021 community call recap: Exploring community governance models](https://www.cscce.org/2021/11/19/novembers-community-call-recap-exploring-community-governance-models/)
+* [Building Leadership in an Open Source Community](https://www.linuxfoundation.org/resources/open-source-guides/building-leadership-in-an-open-source-community)
 * Examples
   * napari: https://napari.org/stable/community/governance.html
   * NumPy: https://numpy.org/doc/stable/dev/governance/governance.html
