@@ -16,13 +16,14 @@ This repository is intended to collect guidance, documents, examples, templates 
 ### Governance
 
 * [Minimum Viable Governance](https://github.com/github/MVG)
-* [Goverining Open](https://governingopen.com)
+* [Governing Open](https://governingopen.com)
 * [CommunityRule](https://communityrule.info/)
 * [CNCF Community Governance Guide](https://contribute.cncf.io/maintainers/governance/)
 * [OpenGovernance.dev](https://github.com/opengovernance/opengovernance.dev)
 * [FOSS Governance](https://fossgovernance.org/) and underlying [Zotero governance library](https://www.zotero.org/groups/2310183/foss_governance/library)
 * [CSCCE's November 2021 community call recap: Exploring community governance models](https://www.cscce.org/2021/11/19/novembers-community-call-recap-exploring-community-governance-models/)
 * [Building Leadership in an Open Source Community](https://www.linuxfoundation.org/resources/open-source-guides/building-leadership-in-an-open-source-community)
+* [SustainOSS's Governance Readiness Checklist](https://sustainers.github.io/governance-readiness/)
 * Examples
   * napari: https://napari.org/stable/community/governance.html
   * NumPy: https://numpy.org/doc/stable/dev/governance/governance.html
