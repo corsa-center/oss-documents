@@ -41,6 +41,10 @@ This repository is intended to collect guidance, documents, examples, templates 
   * Contributor Convenant: https://www.contributor-covenant.org
   * NumFOCUS: https://numfocus.org/code-of-conduct
 
+### DEI
+
+* [The All In for Maintainers DEI Resource Hub](https://allinopensource.org/maintainers/DEI-resources/)  is a dedicated place for sharing resources and solutions for advancing DEI in open source
+
 ### Roadmaps
 
 * [The Turing Way guidance on roadmapping](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-roadmapping.html)
