@@ -36,6 +36,7 @@ This repository is intended to collect guidance, documents, examples, templates 
 * [Open Seed's Designing and enforcing a Code of Conduct by Saskia Freytag](https://docs.google.com/presentation/d/1E0HBEzzuO3VjNLwM3ThWLJ27R6h359j0DO4jwfcFkCw/edit)
 * [Open Source Guide's Your Code of Conduct](https://opensource.guide/code-of-conduct/)
 * [rOpenSci's 2016 Highlights and Resources from Community Call v12: How do I create a code of conduct for my event/lab/codebase?](https://ropensci.org/blog/2016/12/21/commcallv12-review-coc/)
+* [Otter Tech's Code of Conduct Enforcement Training](https://otter.technology/code-of-conduct-training/)
 * [Open Source Project Codes of Conduct](https://opensourceconduct.com/)
 * Examples
   * Contributor Convenant: https://www.contributor-covenant.org
