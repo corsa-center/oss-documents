@@ -44,6 +44,7 @@ This repository is intended to collect guidance, documents, examples, templates 
 ### DEI
 
 * [The All In for Maintainers DEI Resource Hub](https://allinopensource.org/maintainers/DEI-resources/)  is a dedicated place for sharing resources and solutions for advancing DEI in open source
+* [The NumFOCUS DISCOVER Cookbook (Diverse & Inclusive Spaces and Conferences: Overall Vision and Essential Resources)](https://discover-cookbook.numfocus.org/intro.html)
 
 ### Roadmaps
 
