@@ -9,7 +9,6 @@ This repository is intended to collect guidance, documents, examples, templates 
 * [Participating in Open Source Communities](https://www.linuxfoundation.org/resources/open-source-guides/participating-in-open-source-communities)
 * [OpenSSF Best Practices Badge Program](https://www.bestpractices.dev/en)
 * [Code for Science and Society's Digital Infrastructure Incubator resources](https://www.codeforsociety.org/incubator/resources/dii-resource)
-* [Mozilla's Open Leadership Training Series's Best Practices in Working Open](https://mozilla.github.io/open-leadership-training-series/)
 * [It Takes a Village: OS Sustainability for Cultural and Scientific Heritage](https://itav.lyrasis.org)
 * [Program Management for Open Source Projects](https://pragprog.com/titles/bcosp/program-management-for-open-source-projects/)
 
