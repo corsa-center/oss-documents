@@ -11,6 +11,8 @@ This repository is intended to collect guidance, documents, examples, templates 
 * [Code for Science and Society's Digital Infrastructure Incubator resources](https://www.codeforsociety.org/incubator/resources/dii-resource)
 * [It Takes a Village: OS Sustainability for Cultural and Scientific Heritage](https://itav.lyrasis.org)
 * [Program Management for Open Source Projects](https://pragprog.com/titles/bcosp/program-management-for-open-source-projects/)
+* [The Turing Way](https://book.the-turing-way.org/index.html)
+* [Open Source Explainers](https://ospo.library.jhu.edu/learn-grow/ospo-explainers/)
 
 ### Governance
 
@@ -23,6 +25,7 @@ This repository is intended to collect guidance, documents, examples, templates 
 * [CSCCE's November 2021 community call recap: Exploring community governance models](https://www.cscce.org/2021/11/19/novembers-community-call-recap-exploring-community-governance-models/)
 * [Building Leadership in an Open Source Community](https://www.linuxfoundation.org/resources/open-source-guides/building-leadership-in-an-open-source-community)
 * [SustainOSS's Governance Readiness Checklist](https://sustainers.github.io/governance-readiness/)
+* [The Good Governance Initiative](https://ospo-alliance.org/ggi/introduction/)
 * Examples
   * napari: https://napari.org/stable/community/governance.html
   * NumPy: https://numpy.org/doc/stable/dev/governance/governance.html
