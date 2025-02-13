@@ -4,3 +4,4 @@
 * Shane Curcuru, [@shanecurcuru](https://github.com/ShaneCurcuru/), https://orcid.org/0000-0002-7530-3108
 * Michael Hucka, [@mhucka](https://github.com/mhucka), https://orcid.org/0000-0001-9105-5960
 * Yuan Tang, [@terrytangyuan](http://github.com/terrytangyuan), https://orcid.org/0000-0001-5243-233X
+* Bill Branan, [@bbranan](https://github.com/bbranan), https://orcid.org/0000-0002-4735-6624
