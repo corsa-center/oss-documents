@@ -72,7 +72,7 @@ This repository is intended to collect guidance, documents, examples, templates 
   * Zarr: https://zarr.readthedocs.io/en/stable/contributing.html
   * Astropy: https://www.astropy.org/contribute.html
  
-### Sustaianability
+### Sustainability
 
 * Stories
   * [SustainOSS](https://sustainoss.org) - a space for conversations about sustaining Open Source 
