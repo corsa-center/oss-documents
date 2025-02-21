@@ -71,6 +71,12 @@ This repository is intended to collect guidance, documents, examples, templates 
   * Bokeh: https://docs.bokeh.org/en/latest/docs/dev_guide.html
   * Zarr: https://zarr.readthedocs.io/en/stable/contributing.html
   * Astropy: https://www.astropy.org/contribute.html
+ 
+### Sustaianability
+
+* Stories
+  * [SustainOSS](https://sustainoss.org) - a space for conversations about sustaining Open Source 
+  * [PL Funding Panel with the Creators of Elm, Elixir, and Julia](https://youtu.be/f0ouXATi25I) - addressing how the creation of programming languages gets funded
 
 ## About this repository
 
