@@ -61,7 +61,7 @@ This repository is intended to collect guidance, documents, examples, templates 
 * [GitHub's Choose an open source license](https://choosealicense.com)
 * [Open Seed's A Primer on Open Licenses, by Yo Yehudi](https://docs.google.com/presentation/d/e/2PACX-1vQsH4kNQ838uk6mHw8w6YuR8hgg4JXZ10lkNdaVC05zfMEZpU1xDRyT_B6A3s9rqirP2RhAndi-G6dd/pub)
 * [CNCF Recommendations for Attribution Notices](https://github.com/cncf/foundation/blob/main/recommendations-for-attribution.md)
-* [Softwqre Sustainablity Institute's Choosing an open source license](https://www.software.ac.uk/guide/choosing-open-source-licence)
+* [Software Sustainablity Institute's Choosing an open source license](https://www.software.ac.uk/guide/choosing-open-source-licence)
 * [OSS Licensing for Research and Education](https://gw-ospo.github.io/oss-licensing/intro.html) - a short course that introduces researchers (doctoral students, postdocs, staff researchers and PIs) to the essentials of open-source software (OSS) licensing for research and educational purposes from the GWU OSPO.
 
 ### Contributing documents
