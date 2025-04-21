@@ -4,7 +4,7 @@ abstract: "Collecting guidance, documents, examples, templates for open-source s
 authors:
 - family-names: "Katz"
   given-names: "Daniel S."
-  orcid: "http://orcid.org/0000-0001-5934-7525"
+  orcid: "https://orcid.org/0000-0001-5934-7525"
 - family-names: "Forbes"
   given-names: "Megan"
   orcid: "https://orcid.org/0000-0002-2611-1441"
@@ -28,7 +28,7 @@ authors:
 title: "Open-source software project documents"
 date-released: 2025-02-22
 url: "https://github.com/corsa-center/oss-documents"
-license: "CC-BY"
+license: "CC-BY-4.0"
 repository-code: "https://github.com/corsa-center/oss-documents"
 keywords:
 - documentation
