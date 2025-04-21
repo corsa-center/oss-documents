@@ -66,6 +66,7 @@ This repository is intended to collect guidance, documents, examples, templates 
 
 ### Contributing documents
 
+* [Awesome-Contributing list](https://github.com/mntnr/awesome-contributing)
 * Examples
   * Pandas: https://pandas.pydata.org/pandas-docs/stable/development/contributing.html
   * Bokeh: https://docs.bokeh.org/en/latest/docs/dev_guide.html
