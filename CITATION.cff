@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this work, please credit/cite it and the authors."
+abstract: "Collecting guidance, documents, examples, templates for open-source software project, such as on governance, roadmaps, contributing, license, code of conduct"
+authors:
+- family-names: "Katz"
+  given-names: "Daniel S."
+  orcid: "http://orcid.org/0000-0001-5934-7525"
+- family-names: "Forbes"
+  given-names: "Megan"
+  orcid: "https://orcid.org/0000-0002-2611-1441"
+- family-names: "Silen"
+  given-names: "Leah"
+- family-names: "Curcuru"
+  given-names: "Shane"
+  orcid: "https://orcid.org/0000-0002-7530-3108"
+- family-names: "Hucka"
+  given-names: "Michael"
+  orcid: "https://orcid.org/0000-0001-9105-5960"
+- family-names: "Tang"
+  given-names: "Yuan"
+  orcid: "https://orcid.org/0000-0001-5243-233X"
+- family-names: "Branan"
+  given-names: "Bill"
+  orcid: "https://orcid.org/0000-0002-4735-6624"
+- family-names: "Richard"
+  given-names: "Littauer"
+  orcid: "https://orcid.org/0000-0001-5428-7535"
+title: "Open-source software project documents"
+date-released: 2025-02-22
+url: "https://github.com/corsa-center/oss-documents"
+license: "CC-BY"
+repository-code: "https://github.com/corsa-center/oss-documents"
+keywords:
+- documentation
+- docs
+- open-source
+type: "software"
