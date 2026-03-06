@@ -41,9 +41,12 @@ This repository is intended to collect guidance, documents, examples, templates 
 * [rOpenSci's 2016 Highlights and Resources from Community Call v12: How do I create a code of conduct for my event/lab/codebase?](https://ropensci.org/blog/2016/12/21/commcallv12-review-coc/)
 * [Otter Tech's Code of Conduct Enforcement Training](https://otter.technology/code-of-conduct-training/)
 * [Open Source Project Codes of Conduct](https://opensourceconduct.com/)
-* Examples
+* [AI code of conduct updates](https://github.com/melissawm/open-source-ai-contribution-policies)
+* * Examples
   * Contributor Convenant: https://www.contributor-covenant.org
   * NumFOCUS: https://numfocus.org/code-of-conduct
+
+
 
 ### DEI
 
