@@ -42,7 +42,7 @@ This repository is intended to collect guidance, documents, examples, templates 
 * [Otter Tech's Code of Conduct Enforcement Training](https://otter.technology/code-of-conduct-training/)
 * [Open Source Project Codes of Conduct](https://opensourceconduct.com/)
 * [AI code of conduct updates](https://github.com/melissawm/open-source-ai-contribution-policies)
-* * Examples
+* Examples
   * Contributor Convenant: https://www.contributor-covenant.org
   * NumFOCUS: https://numfocus.org/code-of-conduct
 
